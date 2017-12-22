@@ -3,7 +3,7 @@
 //.......................................................
 //Nabeel Ahmed (01-132162-044)
 //saqlain sajid(01-132162-053)
-
+//THIS CLASS CONTAIN ALL THE FUNCTIONS RELATED TO PROGRAM
 #include<iostream>
 #include<conio.h>
 #include<iomanip>
@@ -15,7 +15,6 @@
 #include<stdlib.h>
 #include <windows.h>
 using namespace std;
-//THIS CLASS CONTAIN ALL THE FUNCTIONS RELATED TO TICKET
 
 class TRAVEL
 {
